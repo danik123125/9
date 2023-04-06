@@ -1,0 +1,95 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    background-color: rebeccapurple;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 60px;
+}
+
+header a {
+    background-color: whitesmoke;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 50px;
+}
+
+nav {
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: rebeccapurple;
+}
+
+nav a {
+    margin: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+.tr  {
+    background-color: rebeccapurple;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: aliceblue;
+}
+
+.tt {
+    color: black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.ty {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid rebeccapurple;
+    background-color: rebeccapurple;
+    color: white;
+}
+
+.yy{
+    display: block;
+    margin: 0px auto 0px auto;
+}
+
+.yy:hover {
+    border: 5px solid rebeccapurple;
+    border-radius: 7px;
+}
+
+
+b {
+    font-size: 25px;
+    color:white;
+}
+
+
+
+footer {
+    background-color: rebeccapurple;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+}
